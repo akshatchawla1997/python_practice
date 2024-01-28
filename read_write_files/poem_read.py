@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+"""
+poem.txt contains famous poem "Road not taken" by poet Robert Frost. You have to read this
+ file in your python program and find out words with maximum occurance.
+"""
+>>>>>>> a8cee10eed3c645c7c9430480f70fa6214cb7297
 import time
 
 word_count = {}
