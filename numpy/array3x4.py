@@ -10,3 +10,10 @@ print(array3x4)
 
 for element in np.nditer(array3x4):
     print(element, end=" ")
+
+
+"""
+Write a NumPy program to find the number of rows and columns in a given matrix.
+"""
+
+print(array3x4.shape, "shape of array array3x4")
