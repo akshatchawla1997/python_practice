@@ -18,3 +18,12 @@ print(arbitrary_numbers2)
 arbitrary_mul = arbitrary_numbers * arbitrary_numbers2
 
 print(arbitrary_mul)
+
+
+"""
+Create a 3x3x3 array filled with arbitrary values
+"""
+
+arbitrary_numbers3d = np.random.random((3,3,3))
+
+print(arbitrary_numbers3d)
